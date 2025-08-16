@@ -1,4 +1,4 @@
-# Arb Observer — Contracts
+# Arbital Observer — Contracts
 
 Non-custodial arbitrage vault with **cohort pooling**, **soulbound Position NFT**, **non-linear principal vesting**, and **pro‑rata PnL** distribution. Multi-chain friendly (deploy one vault per network/asset).
 
